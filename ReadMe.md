@@ -11,7 +11,8 @@ Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’a
 
 ## 2. Controllo vero figurine
   - Scorriamo le figurine
-  - Per ogni figurina
+  
+  - PER OGNI figurina
     - SE sono copovolte
       - le giriamo
     - ALTRIMENTI
